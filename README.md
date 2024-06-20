@@ -1,5 +1,7 @@
 # Election-2024-Analyse-
 
+Check out the project here : [ "https://lnkd.in/ggcFfGs6" ] and let's continue to brew up innovative solutions together
+
 Developed a Power BI dashboard to provide a comprehensive analysis of the Bharatiya Janata Party's (BJP) performance in the 2019 vs 2024 Lok Sabha elections, with a special focus on Uttar Pradesh.The data, sourced from Kaggle in Excel format, had many mismatches, requiring extensive data cleaning before visualization. This dashboard offers a clear comparison of election outcomes, helping to identify trends and shifts in voter behavior.
 Explore the dashboard for insightful election analysis and strategic planning!
 
@@ -33,4 +35,4 @@ Table: Breakdown of seats by party and year.
 Bar Chart: Detailed seat count for major parties.
 Filters: All India view, specific data for UP, and election-specific filtering.
 These pages collectively offer a meticulous and interactive analysis of election outcomes, enabling users to get into specific metrics and trends for effective electoral analysis and strategic planning.
-Check out the project here : [ "https://lnkd.in/ggcFfGs6" ] and let's continue to brew up innovative solutions together
+
