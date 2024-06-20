@@ -33,3 +33,4 @@ Table: Breakdown of seats by party and year.
 Bar Chart: Detailed seat count for major parties.
 Filters: All India view, specific data for UP, and election-specific filtering.
 These pages collectively offer a meticulous and interactive analysis of election outcomes, enabling users to get into specific metrics and trends for effective electoral analysis and strategic planning.
+Check out the project here : [ "https://lnkd.in/ggcFfGs6" ] and let's continue to brew up innovative solutions together
